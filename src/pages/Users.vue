@@ -21,6 +21,7 @@ export default {
   data: function() {
     return {
       users: []
+      
     };
   },
   methods: {
